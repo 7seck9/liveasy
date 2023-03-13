@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1015041567495",
+    "project_id": "nifty-bindery-297817",
+    "storage_bucket": "nifty-bindery-297817.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015041567495:android:cc7f0fe88178fb036873a2",
+        "android_client_info": {
+          "package_name": "com.example.liveasy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015041567495-q2o8o7t05k4d2ep9flv38ib7rm2enjsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9S6NpuVG8XzAKsnW_CYfT-wkN7e3nNrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015041567495-q2o8o7t05k4d2ep9flv38ib7rm2enjsd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
